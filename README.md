@@ -19,14 +19,10 @@ Ce projet a été réalisé dans le cadre du module **Programmation Web II : Jav
 
 | Nom complet         | Numéro d'apogée   | Rôle / Contribution principale                  |
 | ------------------- | ----------------- | ----------------------------------------------- |
-| BAHAIDA Salma       | 2226601           | Structure HTML du quiz (index.html) : balisage, |
-|                     |                   | accessibilité,organisation du contenu           |
-| EL HASOUBI Soukaina | 2130126           | Feuille de style (styles.css) : mise en page,   |
-|                     |                   | couleurs, responsive design                     |
-| ELMOUHIB Ikram      | 2125072           | Fichier des questions (questions.js) : rédaction|
-|                     |                   | des questions, réponses, explications           |
-| TARAKA Fatimeezahra | 2330910           | Logique JavaScript (script.js) : fonctionnement |
-|                     |                   | du quiz, interactions, minuterie                |
+| BAHAIDA Salma       | 2226601           | Structure HTML du quiz (index.html)             |
+| EL HASOUBI Soukaina | 2130126           | Feuille de style (styles.css)                   |
+| ELMOUHIB Ikram      | 2125072           | Fichier des questions (questions.js)            |
+| TARAKA Fatimeezahra | 2330910           | Logique JavaScript (script.js)                  |
 
 ---
 
